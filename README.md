@@ -22,3 +22,5 @@ Dataset: *Student performance data derived from the University of Minho, Portuga
   - Try some feature selection to Tune Model & compare performance with original Model.
   - Select best Models
   - Test Model on Random Data to Predict whether 'Student will Pass or Fail'.
+  - Use Random Forest to Predict 'G3', because Final Grades ranges between '0-20'.
+  - This approach will definetely perform better than Linear Regression.
